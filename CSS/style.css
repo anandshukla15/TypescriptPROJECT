@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+    max-width: 100%;
+}
+
+
+
+
+.username{
+    padding-top: 1rem;
+    color: #fff;
+}
+
+
+
+
+hr{
+    height: 0.01rem ;
+    border: 0.1 rem solid whitesmoke;
+}
+
+
+.card-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 3rem 0 0 0;
+}
+
+
+
+
+.card-footer img{ 
+width: 2.5rem;
+height: 2.5rem;
+border-radius: 50%;
+border: 0.2 rem solid white;
+}
+
+.empty-msg{
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+}
